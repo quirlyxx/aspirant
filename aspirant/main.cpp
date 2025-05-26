@@ -9,4 +9,5 @@ int main() {
     Aspirant a("Olya Pchelka", 20, "Physics", "Magnitnoe pole", "prof.Newton");
     a.displayInfo();
 
+    return 0;
 }
